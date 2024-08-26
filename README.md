@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am .Net developer with 6 years of experience. Started web development by creating my first website in Html, Php and MySql. I have worked in C#, .Net, .Net Core, Asp.Net MVC, Asp.Net Web forms, Web API, Entity Framework, LINQ, SQL Server, Angular etc.
+I am a .Net developer with 6 years of experience. Started web development by creating my first website in Html, Php and MySql. I have worked in C#, .Net, .Net Core, Asp.Net MVC, Asp.Net Web forms, Web API, Entity Framework, LINQ, SQL Server, Angular etc.
 <!--
 **cyrilgeorgem/cyrilgeorgem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
